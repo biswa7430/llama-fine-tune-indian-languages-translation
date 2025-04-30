@@ -78,3 +78,13 @@ Happy coding! ⚙️
 ```
 
 You can save this in your GitHub repo under the root or in a `docs/` folder. Do you also want a matching `requirements.txt` template for this project?
+
+## 📬 Contact
+```
+If you have any questions or suggestions, feel free to reach out:
+
+- **Name:** Biswajit Bera  
+- **Email:** biswabera75@gmail.com  
+- **LinkedIn:** [linkedin.com/in/biswajit-bera7430](https://www.linkedin.com/in/biswajit-bera7430)  
+- **GitHub:** [github.com/biswa7430](https://github.com/biswa7430)
+
